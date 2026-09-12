@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="900" src="https://raw.githubusercontent.com/Arijit-Clowny/Arijit-Clowny/main/terminal.svg" alt="terminal intro animation"/>
+<img width="900" src="https://cdn.jsdelivr.net/gh/Arijit-Clowny/Arijit-Clowny@main/terminal.svg" alt="terminal intro animation"/>
 
 <br/>
 
