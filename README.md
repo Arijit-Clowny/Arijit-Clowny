@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="900" src="terminal.svg" alt="terminal intro animation"/>
+<img width="900" src="Terminal.svg" alt="terminal intro animation"/>
 
 <br/>
 
