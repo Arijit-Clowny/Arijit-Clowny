@@ -325,7 +325,7 @@
     />
   </text>
 
-  <!-- Java -->
+  <!-- Python -->
   <text
     x="88"
     y="362"
@@ -352,7 +352,7 @@
     font-size="14.5"
     opacity="0"
   >
-    <tspan fill="#c9d1d9">java backend dev</tspan>
+    <tspan fill="#c9d1d9">Python backend dev</tspan>
     <tspan fill="#30363d"> ·········</tspan>
     <tspan fill="#7ee787"> in progress</tspan>
 
