@@ -44,11 +44,10 @@
     </clipPath>
 
     <clipPath id="type3">
-      <rect x="88" y="292" width="0" height="24">
-        <animate attributeName="width" from="0" to="344" dur="1s" begin="4.5s" fill="freeze"/>
-      </rect>
-    </clipPath>
-  </defs>
+  <rect x="88" y="292" width="0" height="24">
+    <animate attributeName="width" from="0" to="300" dur="1s" begin="4.5s" fill="freeze"/>
+  </rect>
+</clipPath>
 
   <!-- window shadow -->
   <rect x="64" y="34" width="880" height="390" rx="14" fill="#010409" opacity="0.75"/>
@@ -113,12 +112,12 @@
     <animate attributeName="opacity" to="1" dur="0.45s" begin="4s" fill="freeze"/>
   </text>
 
-  <!-- $ ./healthcheck.sh (typed) -->
-  <g clip-path="url(#type3)">
-    <text x="88" y="308" font-size="16" textLength="328">
-      <tspan fill="#7ee787">arijit@github:~$</tspan><tspan fill="#c9d1d9"> ./healthcheck.sh</tspan>
-    </text>
-  </g>
+  <!-- $ ./build.sh (typed) -->
+<g clip-path="url(#type3)">
+  <text x="88" y="308" font-size="16" textLength="284">
+    <tspan fill="#7ee787">arijit@github:~$</tspan><tspan fill="#c9d1d9"> ./build.sh</tspan>
+  </text>
+</g>
 
   <!-- checklist output -->
   <text x="88" y="336" font-size="14.5" font-weight="700" fill="#7ee787" filter="url(#glow)" opacity="0">✓
