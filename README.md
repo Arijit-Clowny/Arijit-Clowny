@@ -1,27 +1,4 @@
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                      HEADER                                -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366F1,50:8B5CF6,100:06B6D4&amp;height=250&amp;section=header&amp;text=Arijit%20Shaw&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Aspiring%20AI%2FML%20%26%20Data%20Science%20Engineer&amp;descSize=19&amp;descColor=e9d5ff&amp;descAlignY=55"/>
 
-<div align="center">
-
-<img width="760" src="./terminal.svg" alt="terminal intro animation"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:6366F1,100:06B6D4&amp;height=2&amp;width=1000"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Arijit-Clowny&amp;color=8b5cf6&amp;style=for-the-badge&amp;label=PROFILE+VIEWS"/>
-&nbsp;
-<a href="https://github.com/Arijit-Clowny"><img src="https://img.shields.io/github/followers/Arijit-Clowny?style=for-the-badge&amp;color=8b5cf6&amp;labelColor=1e1b2e&amp;label=FOLLOWERS"/></a>
-&nbsp;
-<a href="https://github.com/Arijit-Clowny"><img src="https://img.shields.io/github/stars/Arijit-Clowny?style=for-the-badge&amp;color=8b5cf6&amp;labelColor=1e1b2e&amp;label=STARS"/></a>
-
-</div>
-
-<br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      ABOUT ME                               -->
