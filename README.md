@@ -87,21 +87,6 @@ me.say_hi()
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                      TROPHIES                                -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<h3 align="center">🏆 Trophy Case</h3>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arijit-Clowny&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;row=1&amp;column=6&amp;animation=slideInUp"/>
-
-</div>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:6366F1,100:06B6D4&amp;height=2&amp;width=1000"/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--                      EDUCATION                               -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
