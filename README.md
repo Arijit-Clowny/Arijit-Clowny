@@ -1,23 +1,23 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      HEADER                                -->
 <!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=250&section=header&text=Arijit%20Shaw&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Aspiring%20AI%2FML%20%26%20Data%20Science%20Engineer&descSize=19&descColor=e9d5ff&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366F1,50:8B5CF6,100:06B6D4&amp;height=250&amp;section=header&amp;text=Arijit%20Shaw&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Aspiring%20AI%2FML%20%26%20Data%20Science%20Engineer&amp;descSize=19&amp;descColor=e9d5ff&amp;descAlignY=55"/>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=820&lines=%F0%9F%8E%93+CS+Undergraduate+%40+NSHM+Knowledge+Campus;%F0%9F%93%8A+5th+Semester+%7C+CGPA%3A+7.9;%F0%9F%92%BB+Java+%E2%80%A2+Python+%E2%80%A2+C+%E2%80%A2+SQL;%F0%9F%A4%96+Diving+Deep+into+Data+Science+%26+Machine+Learning;%F0%9F%9A%80+Open+to+Internships+%26+Entry-Level+Roles" />
+<img width="760" src="./terminal.svg" alt="terminal intro animation"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:6366F1,100:06B6D4&amp;height=2&amp;width=1000"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Arijit-Clowny&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Arijit-Clowny&amp;color=8b5cf6&amp;style=for-the-badge&amp;label=PROFILE+VIEWS"/>
 &nbsp;
-<a href="https://github.com/Arijit-Clowny"><img src="https://img.shields.io/github/followers/Arijit-Clowny?style=for-the-badge&color=8b5cf6&labelColor=1e1b2e&label=FOLLOWERS"/></a>
+<a href="https://github.com/Arijit-Clowny"><img src="https://img.shields.io/github/followers/Arijit-Clowny?style=for-the-badge&amp;color=8b5cf6&amp;labelColor=1e1b2e&amp;label=FOLLOWERS"/></a>
 &nbsp;
-<a href="https://github.com/Arijit-Clowny"><img src="https://img.shields.io/github/stars/Arijit-Clowny?style=for-the-badge&color=8b5cf6&labelColor=1e1b2e&label=STARS"/></a>
+<a href="https://github.com/Arijit-Clowny"><img src="https://img.shields.io/github/stars/Arijit-Clowny?style=for-the-badge&amp;color=8b5cf6&amp;labelColor=1e1b2e&amp;label=STARS"/></a>
 
 </div>
 
@@ -54,7 +54,7 @@ me.say_hi()
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:6366F1&height=2&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:06B6D4,100:6366F1&amp;height=2&amp;width=1000"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      TECH STACK                             -->
@@ -64,7 +64,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode,linux&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,git,github,vscode,linux&amp;theme=dark&amp;perline=8" />
 
 <br/><br/>
 
@@ -76,7 +76,7 @@ me.say_hi()
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:6366F1,100:06B6D4&amp;height=2&amp;width=1000"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      GITHUB STATS                            -->
@@ -86,21 +86,21 @@ me.say_hi()
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=Arijit-Clowny&show_icons=true&theme=radical&hide_border=true&bg_color=1e1b2e&title_color=A78BFA&icon_color=06B6D4&text_color=e9d5ff&border_radius=12"/>
-<img height="168" src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit-Clowny&theme=radical&hide_border=true&background=1e1b2e&ring=8B5CF6&fire=06B6D4&currStreakLabel=A78BFA&border_radius=12"/>
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=Arijit-Clowny&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=1e1b2e&amp;title_color=A78BFA&amp;icon_color=06B6D4&amp;text_color=e9d5ff&amp;border_radius=12"/>
+<img height="168" src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit-Clowny&amp;theme=radical&amp;hide_border=true&amp;background=1e1b2e&amp;ring=8B5CF6&amp;fire=06B6D4&amp;currStreakLabel=A78BFA&amp;border_radius=12"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Clowny&layout=compact&theme=radical&hide_border=true&bg_color=1e1b2e&title_color=A78BFA&text_color=e9d5ff&border_radius=12"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Clowny&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=1e1b2e&amp;title_color=A78BFA&amp;text_color=e9d5ff&amp;border_radius=12"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit-Clowny&theme=react-dark&hide_border=true&bg_color=1e1b2e&color=A78BFA&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit-Clowny&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=1e1b2e&amp;color=A78BFA&amp;line=8B5CF6&amp;point=06B6D4&amp;area=true&amp;area_color=8B5CF6"/>
 
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:6366F1&height=2&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:06B6D4,100:6366F1&amp;height=2&amp;width=1000"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      TROPHIES                                -->
@@ -110,12 +110,12 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arijit-Clowny&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=6&animation=slideInUp"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Arijit-Clowny&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;row=1&amp;column=6&amp;animation=slideInUp"/>
 
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:6366F1,100:06B6D4&amp;height=2&amp;width=1000"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      EDUCATION                               -->
@@ -137,7 +137,7 @@ St. Michael's School, Durgapur · Aggregate: **83.4%** (best of 5) · 2022
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=2&width=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:6366F1,100:06B6D4&amp;height=2&amp;width=1000"/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      CONNECT                                 -->
@@ -147,9 +147,9 @@ St. Michael's School, Durgapur · Aggregate: **83.4%** (best of 5) · 2022
 
 <div align="center">
 
-<a href="mailto:arijitshaw2112@gmail.com"><img src="https://img.shields.io/badge/Email-1e1b2e?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
-<a href="https://www.linkedin.com/in/arijit-shaw-81a5803b1"><img src="https://img.shields.io/badge/LinkedIn-1e1b2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
-<a href="https://github.com/Arijit-Clowny"><img src="https://img.shields.io/badge/GitHub-1e1b2e?style=for-the-badge&logo=github&logoColor=A78BFA"/></a>
+<a href="mailto:arijitshaw2112@gmail.com"><img src="https://img.shields.io/badge/Email-1e1b2e?style=for-the-badge&amp;logo=gmail&amp;logoColor=A78BFA"/></a>
+<a href="https://www.linkedin.com/in/arijit-shaw-81a5803b1"><img src="https://img.shields.io/badge/LinkedIn-1e1b2e?style=for-the-badge&amp;logo=linkedin&amp;logoColor=A78BFA"/></a>
+<a href="https://github.com/Arijit-Clowny"><img src="https://img.shields.io/badge/GitHub-1e1b2e?style=for-the-badge&amp;logo=github&amp;logoColor=A78BFA"/></a>
 
 <br/><br/>
 
@@ -157,4 +157,4 @@ St. Michael's School, Durgapur · Aggregate: **83.4%** (best of 5) · 2022
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:6366F1&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:8B5CF6,100:6366F1&amp;height=150&amp;section=footer"/>
