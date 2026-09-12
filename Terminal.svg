@@ -353,7 +353,7 @@
     opacity="0"
   >
     <tspan fill="#c9d1d9">Python backend dev</tspan>
-    <tspan fill="#30363d" letter-spacing="-2"> ·····</tspan>
+    <tspan fill="#30363d" letter-spacing="-1"> ·····</tspan>
     <tspan fill="#7ee787"> in progress</tspan>
 
     <animate
