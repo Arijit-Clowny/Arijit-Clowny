@@ -86,17 +86,6 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijit-Clowny&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=1e1b2e&amp;title_color=A78BFA&amp;text_color=e9d5ff&amp;border_radius=12"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arijit-Clowny&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=1e1b2e&amp;color=A78BFA&amp;line=8B5CF6&amp;point=06B6D4&amp;area=true&amp;area_color=8B5CF6"/>
-
-</div>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:06B6D4,100:6366F1&amp;height=2&amp;width=1000"/>
-
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      TROPHIES                                -->
 <!-- ══════════════════════════════════════════════════════════ -->
