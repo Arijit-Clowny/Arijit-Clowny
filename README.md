@@ -81,7 +81,7 @@ me.say_hi()
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=Arijit-Clowny&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=1e1b2e&amp;title_color=A78BFA&amp;icon_color=06B6D4&amp;text_color=e9d5ff&amp;border_radius=12"/>
+<img height="168" src="https://github-readme-streak-stats.herokuapp.com/?user=Arijit-Clowny&amp;theme=radical&amp;hide_border=true&amp;background=1e1b2e&amp;ring=8B5CF6&amp;fire=06B6D4&amp;currStreakLabel=A78BFA&amp;border_radius=12"/>
 
 </div>
 <br/>
