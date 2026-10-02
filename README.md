@@ -26,7 +26,7 @@
 
 <img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif">
 
-I'm a Computer Science undergraduate with a solid base in **Java, Python, C, SQL,** and **Data Structures & Algorithms**. I enjoy turning problems into clean, working code — including hands-on experience building a **full desktop application in Python**. Right now I'm sharpening my **Java** skills for backend/application development while steadily building toward a focus in **Data Science and Machine Learning**, aiming to apply analytical and programming skills to real-world, data-driven problems.
+I'm a Computer Science undergraduate with a solid base in **Python, C, SQL,** and **Data Structures & Algorithms**. I enjoy turning problems into clean, working code — including hands-on experience building a **full desktop application in Python**. Right now I'm sharpening my **Python** skills for backend/application development while steadily building toward a focus in **Artificial Intelligence and Machine Learning**, aiming to apply analytical and programming skills to real-world, data-driven problems.
 
 ```python
 class ArijitShaw:
@@ -37,7 +37,7 @@ class ArijitShaw:
         self.education   = "B.Tech CSE — NSHM Knowledge Campus (5th Sem, CGPA: 7.9)"
         self.languages   = ["English", "Hindi", "Bengali"]
         self.focus       = ["DSA", "OOP", "Data Science", "Machine Learning"]
-        self.currently   = "Deepening Java for backend dev, building toward AI/ML"
+        self.currently   = "Mastering python, building toward AI/ML"
         self.looking_for = "Internships & entry-level roles in SDE / AI-ML"
 
     def say_hi(self):
