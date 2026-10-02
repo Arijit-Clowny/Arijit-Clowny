@@ -3,7 +3,7 @@
   xmlns="http://www.w3.org/2000/svg"
   font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace"
 >
-  <title>Arijit Shaw — CS undergraduate · aspiring AI/ML &amp; Data Science engineer</title>
+  <title>Arijit Shaw — CS undergraduate · aspiring AI/ML engineer</title>
 
   <defs>
 
@@ -223,7 +223,7 @@
     textLength="687"
     opacity="0"
   >
-    b.tech cse · aspiring ai/ml &amp; data science engineer · 5th sem · west bengal, india
+    b.tech cse · aspiring ai/ml engineer · 5th sem · west bengal, india
 
     <animate
       attributeName="opacity"
@@ -242,7 +242,7 @@
       font-size="16"
       textLength="300"
     >
-      <tspan fill="#7ee787">arijit@github:~$</tspan>
+      <tspan fill="#7ee787">Arijit-Clowny@github:~$</tspan>
       <tspan fill="#c9d1d9"> cat status.txt</tspan>
     </text>
   </g>
@@ -392,7 +392,7 @@
     font-size="14.5"
     opacity="0"
   >
-    <tspan fill="#c9d1d9">ml &amp; data science</tspan>
+    <tspan fill="#c9d1d9">AI &amp; ML Engineer</tspan>
     <tspan fill="#30363d"> ········</tspan>
     <tspan fill="#7ee787"> on track</tspan>
 
